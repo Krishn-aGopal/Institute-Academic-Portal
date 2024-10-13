@@ -1,7 +1,7 @@
-# Student Registration Portal
+# Institute Academic Portal
 
 ## Introduction
-The Student Registration Portal is a comprehensive university system designed to facilitate the management and access of student information. This portal provides distinct roles and functionalities for students, instructors, and administrators, ensuring a streamlined and secure environment for managing academic data.
+The Institute Academic Portal is a comprehensive university system designed to facilitate the management and access of student information. This portal provides distinct roles and functionalities for students, instructors, and administrators, ensuring a streamlined and secure environment for managing academic data.
 
 ## Technologies Used
 - **Frontend**: 
@@ -17,11 +17,11 @@ The Student Registration Portal is a comprehensive university system designed to
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/DuryodhanDeep/Student-Registration-Portal.git
+    https://github.com/Krishn-aGopal/Institute-Academic-Portal
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd Student-Registration-Portal
+    cd Institute-Academic-Portal
     ```
 3. **Install Dependencies**:
     ```bash
